@@ -3,3 +3,6 @@ matplotlib
 scikit-learn
 pandas
 tqdm
+seaborn
+statsmodels
+imbalanced-learn

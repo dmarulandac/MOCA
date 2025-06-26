@@ -1,0 +1,4 @@
+{"type": "cm_matrix", "dataset": "train", "true_0": {"predicted_0": 499, "predicted_1": 107}, "true_1": {"predicted_0": 8, "predicted_1": 964}}
+{"type": "cm_matrix", "dataset": "test", "true_0": {"predicted_0": 96, "predicted_1": 99}, "true_1": {"predicted_0": 55, "predicted_1": 277}}
+{"type": "cm_matrix", "dataset": "train", "true_0": {"predicted_0": 499, "predicted_1": 107}, "true_1": {"predicted_0": 8, "predicted_1": 964}}
+{"type": "cm_matrix", "dataset": "test", "true_0": {"predicted_0": 96, "predicted_1": 99}, "true_1": {"predicted_0": 55, "predicted_1": 277}}
